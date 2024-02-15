@@ -1,0 +1,2 @@
+# PythonScriptPlayground
+ Learn and Explore the magic of Python with Python Script Playground! A collection of Python scripts for every coder, from beginners to seasoned developers. Dive into practical, hands-on coding examples covering fundamental concepts, math operations, list manipulations, and more. Elevate your Python skills in this code-only haven. Let's script, learn, and explore together – because in coding, every line tells a story!
