@@ -1,26 +1,5 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <title>Python Script Playground</title>
-  <style>
-    body {
-      font-family: 'Arial', sans-serif;
-      margin: 20px;
-      padding: 20px;
-    }
-    h1 {
-      color: #4CAF50;
-    }
-    p {
-      color: #333;
-    }
-  </style>
-</head> 
-<body>
-    <h1>Welcome to Python Script Playground</h1>
-  
- <p>A collection of Python scripts for every coder, from beginners to seasoned developers. Dive into practical, hands-on coding examples covering fundamental concepts, math operations, list manipulations, and more. Elevate your Python skills in this code-only haven. Let's script, learn, and explore together – because in coding, every line tells a story!</p>
-  
+
+    <h1>Welcome to Python Script Playground</h1>  
   <p>Your coding sanctuary for Python exploration and growth.</p>
 
   <h2>Script Categories</h2>
@@ -59,5 +38,4 @@
 # - [freeCodeCamp](https://www.youtube.com/watch?v=rfscVS0vtbw&t=1879s) 
 
 
-</body>
-</html>
+
