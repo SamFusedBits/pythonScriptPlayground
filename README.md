@@ -1,4 +1,5 @@
-
+<!DOCTYPE html>
+<html>
     <h1>Welcome to Python Script Playground</h1>  
   <p>Your coding sanctuary for Python exploration and growth.</p>
 
@@ -37,5 +38,4 @@
 # - [[Coursera - Python for Everybody]](https://www.coursera.org/specializations/python)
 # - [freeCodeCamp](https://www.youtube.com/watch?v=rfscVS0vtbw&t=1879s) 
 
-
-
+</html>
