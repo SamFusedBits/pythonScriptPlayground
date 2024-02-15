@@ -1,3 +1,7 @@
+# - Resources to follow :
+#      - [Python Documentation - Python Basics](https://docs.python.org/3/tutorial/introduction.html)
+#      - [W3Schools - Python Tutorial](https://www.w3schools.com/python/)
+
 #I. Simple Commands:
 
 #- 1. Write a program that prints your name.

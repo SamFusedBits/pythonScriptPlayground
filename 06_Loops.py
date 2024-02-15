@@ -1,3 +1,6 @@
+# - Resources to follow :
+#   - [Real Python - Python Loops](https://realpython.com/python-for-loop/)
+
 #1. Write a python program to Print the multiplication table for a given number.
 
  # Request user input for the number

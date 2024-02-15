@@ -1,3 +1,6 @@
+# - Resources to follow :
+#   - [Python Documentation - Modules](https://docs.python.org/3/tutorial/modules.html)
+
 # 1. Choose two different modules from the Python standard library. 
 # Write a Python script that integrates both modules to perform a specific task or solve a problem.
 

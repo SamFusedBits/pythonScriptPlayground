@@ -1,3 +1,7 @@
+# - Resources to follow :
+# - [Real Python - Python Lists](https://realpython.com/python-lists-tuples/)
+#      - [GeeksforGeeks - Python List](https://www.geeksforgeeks.org/python-list/)
+
 #1. Create a Python program that performs basic list operations.
 # - Create an empty list.
 # - Add three different types of elements to the list (e.g., integers, strings, and floats).

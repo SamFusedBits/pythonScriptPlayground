@@ -1,4 +1,7 @@
-# 1. Write a program to design a class to represent a car with attributes like make model year and speed each car object should contain 3
+# - Resources to follow :
+#   - [Real Python - Python Classes and Objects](https://realpython.com/python-classes-and-objects/)
+
+#1. Write a program to design a class to represent a car with attributes like make model year and speed each car object should contain 3
 # methods which can start the engine accelerate and slow down the speed.
 
 class Car:

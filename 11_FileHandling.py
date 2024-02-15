@@ -1,3 +1,6 @@
+# - Resources to follow :
+#   - [Real Python - Reading and Writing Files in Python](https://realpython.com/read-write-files-python/)
+
 # 1. WAPP to read content of the file and count how many times letter 'a' comes in a file.
 
 myfile = open("myfile.txt", "r")

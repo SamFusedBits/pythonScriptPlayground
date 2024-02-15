@@ -1,3 +1,7 @@
+# - Resources to follow :
+# - [W3Schools - Python Strings](https://www.w3schools.com/python/python_strings.asp)
+#      - [GeeksforGeeks - Python String Methods](https://www.geeksforgeeks.org/python-strings/)
+
 # 1. Write a python program to check if an entered string is a palindrome or not?
 
 newstr=input("Enter a string:").lower()

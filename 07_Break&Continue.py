@@ -1,3 +1,6 @@
+# - Resources to follow :
+#  - [Python Documentation - Break and Continue Statements](https://docs.python.org/3/tutorial/controlflow.html)
+
 # 1. Write a python program to find the first even number and print.
 
 for num in range(1, 101):

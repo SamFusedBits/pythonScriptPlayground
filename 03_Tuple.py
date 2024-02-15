@@ -1,3 +1,8 @@
+# - Resources to follow :
+#  - [Real Python - Python Lists](https://realpython.com/python-lists-tuples/)
+#      - [GeeksforGeeks - Python List Operations](https://www.geeksforgeeks.org/python-list/)
+
+
 # 1. Write a python program to create a tuple of your favourite fruits.
 # - Print the tuple.
 # - Access and print individual elements of the tuple.

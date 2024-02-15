@@ -1,3 +1,6 @@
+# - Resources to follow :
+# - [DataCamp - Python If...Else](https://www.datacamp.com/community/tutorials/python-if-elif-else)
+
 # 1. Write a python program to determine the grade based on a user's input score. 
 # Give the grades starts from First class with Distinction to Fail as per the score percentage.
 

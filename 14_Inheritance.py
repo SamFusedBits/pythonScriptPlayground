@@ -1,3 +1,6 @@
+# - Resources to follow :
+#   - [Real Python - Inheritance and Composition](https://realpython.com/inheritance-composition-python/)
+
 # 1. Write a python program to demonstrate Inheritance in animals, Call subclasses with parent class member function.
 
 class Animal:

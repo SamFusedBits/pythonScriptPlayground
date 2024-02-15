@@ -1,3 +1,7 @@
+# - Resources to follow :
+#   - [Python Documentation - Errors and Exceptions](https://docs.python.org/3/tutorial/errors.html)
+#       - [Real Python - Python Exception Handling](https://realpython.com/courses/working-python-exceptions/)
+
 # 1. Write a Python program that prompts the user to enter two numbers and then performs division. 
 # Handle the "ZeroDivisionError" exception if the second number is zero.
 

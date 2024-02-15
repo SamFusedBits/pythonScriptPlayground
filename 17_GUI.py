@@ -1,3 +1,6 @@
+# - Resources to follow :
+#  - [Tkinter Documentation](https://docs.python.org/3/library/tkinter.html)
+
 # GUI with Database Connectivity:
 # Develop a database-driven GUI program to manage student information. 
 # Set up database connection and Implement features for adding, updating, and deleting student records.

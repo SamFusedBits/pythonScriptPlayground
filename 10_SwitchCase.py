@@ -1,3 +1,7 @@
+# - Resources to follow :
+  # - [GeeksforGeeks - Python Switch Case](https://www.geeksforgeeks.org/switch-case-in-python-replacement/)
+  #     - [Real Python - Replacements for Switch/Case Statements](https://realpython.com/courses/cool-new-features-python-38/)
+
 # 1. Write a python program to implement switch cases using a dictionary that maps cases to function and take input from the user for case selection.
 
 def case1():

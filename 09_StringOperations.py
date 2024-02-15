@@ -1,3 +1,6 @@
+# - Resources to follow :
+# - [Real Python - Python String Operations](https://realpython.com/python-strings/)
+
 # 1. Write a Python program that takes two strings as input and concatenates them. Ensure thatthe final string is in uppercase. 
 # Calculate and print the length of a user-entered string.
 # Remove all leading and trailing spaces from a given string.

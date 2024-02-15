@@ -1,3 +1,7 @@
+# - Resources to follow :
+#  - [GeeksforGeeks - Python Tuples](https://www.geeksforgeeks.org/python-tuples/)
+
+
 # 1. Write a Python program to find and print the unique elements in a given list.
 # - Create a list that contains duplicate elements.
 # - Use a set to identify and print the unique elements from the list.
